@@ -9,7 +9,7 @@ const Footer = () => {
     <div>
         <div className=" flex w-full bg-about bg-no-repeat bg-cover min-h-screen justify-center items-center">
             <div className="flex flex-col space-y-6 md:flex-row md:space-x-6 md:space-y-0 bg-slate-900 w-full max-w-6xl p-8 rounded-xl shadow-lg">
-                <div className=" flex flex-col justify-between w-full font-loos">
+                <div className=" flex flex-col justify-between w-full h-full font-loos">
                     <div>
                         <h1 className="font-bold text-4xl tracking-wide text-gray-100">Contact us</h1>
                         <p className="pt-2 text-cyan-100 text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, voluptate!</p>
@@ -21,7 +21,7 @@ const Footer = () => {
                         </div>
                     <div className="inline-flex space-x-2 items-center">
                     <MdEmail size={20} />
-                    <span className="pl-5">harrison@harrison.com</span>
+                    <span className="pl-5">harrison@orchestra.com</span>
                     </div>
                 <div className="inline-flex space-x-2 items-center">
                 <FaLocationDot size={20} />
