@@ -53,7 +53,7 @@ import {
   
   export function Testimonial() {
     return (
-      <section className=" px-8 py-10 lg:py-28">
+      <section className="bg-about bg-no-repeat bg-cover px-8 py-10 lg:py-28">
         <div className="container mx-auto">
           <Typography
             variant="h2"
