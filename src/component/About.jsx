@@ -9,7 +9,7 @@ const About = () => {
     <div className=" w-full h-full flex flex-col lg:flex-row justify-center py-10 max-w-6xl mx-auto ">
     
         <div className="w-full h-full flex justify-end ">
-            <img src={Aboutpic} alt="" className="w-full  rounded-lg mx-auto lg:mx-0" />
+            <img src={Aboutpic} alt="" className="w-[90%] md:w-full  rounded-lg mx-auto lg:mx-0" />
             
 
         </div>
