@@ -14,7 +14,7 @@ const About = () => {
 
         </div>
         <div className='w-full'>
-        <h2 className='text-center text-slate-900 text-6xl lg:text-8xl pt-20 font-loos  lg:-ml-48 animate-fade-left animate-ease-in'>HARRISON </h2>
+        <h2 className='text-center text-slate-900 text-6xl lg:text-8xl pt-20 font-loos  lg:-ml-46 animate-fade-left animate-ease-in'>HARRISON </h2>
         <h3 className='text-center text-slate-800 text-5xl font-loos animate-fade-left animate-ease-in '>ORCHESTRA</h3>
         <div className='pl-10 mt-5'>
             <p className='text-slate-600 font-loos animate-fade-left animate-ease-in'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, maxime sed nisi totam veniam aperiam ratione architecto exercitationem obcaecati suscipit, illum a distinctio facilis dolores quam rerum saepe fugit inventore!</p>
