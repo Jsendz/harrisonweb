@@ -3,7 +3,7 @@ import { logo } from '../assets/index.js'
 
  const Navbar = () => {
   return (
-    <div className="w-full h-16 lg:h-32 flex flex-row absolute justify-around items-center z-50">
+    <div className="w-full h-24 lg:h-32 flex flex-row absolute justify-around items-center z-50">
 
       
       <div className=" w-full flex ml-3 font-bold text-white font-loos">
