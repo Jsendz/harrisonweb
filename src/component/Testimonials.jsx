@@ -33,18 +33,20 @@ import {
       </Card>
     );
   }
+
+ 
   
   const testimonials = [
     {
       title:
-        "The team went above and beyond to ensure my issue was resolved quickly and efficiently. Truly outstanding!",
+        " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus similique nulla nisi deleniti error quos saepe optio sint ab doloremque.!",
       client: "Jessica Devis",
       clientInfo: "Full Stack Developer @Netflix",
       img: "/image/netflix.svg",
     },
     {
       title:
-        "It have broadened my horizons and helped me advance my career. The community is incredibly supportive.",
+        " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus similique nulla nisi deleniti error quos saepe optio sint ab doloremque.",
       client: "Marcell Glock",
       clientInfo: "Graphic Designer, @Coinbase",
       img: "https://www.material-tailwind.com/image/Logo-coinbase.svg",
@@ -60,14 +62,13 @@ import {
             color="blue-gray"
             className="mb-4 !text-2xl lg:!text-4xl font-loos"
           >
-            The heartfelt testimonials of our community
+            Les témoignages sincères de notre communauté
           </Typography>
           <Typography
             variant="lead"
             className="max-w-3xl !text-gray-500 mb-10 lg:mb-20 font-loos"
           >
-            From life-enhancing gadgets to unparalleled customer support, and
-            transformative learning opportunities.
+            Des expériences qui améliorent la vie.
           </Typography>
           <div className="grid gap-8 grid-cols-1 lg:grid-cols-2">
             {testimonials.map((props, key) => (
